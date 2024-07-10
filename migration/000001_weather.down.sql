@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS weather_hour;
+DROP TABLE IF EXISTS weather_day;
+DROP TABLE IF EXISTS locations;
